@@ -1,0 +1,3 @@
+/*
+some simple queries to get started
+*/
